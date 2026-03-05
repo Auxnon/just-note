@@ -1,5 +1,6 @@
 name: just_note
 description: JustNote is a draw and note app with Windows haptic support for Surface Slim Pen.
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
